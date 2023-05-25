@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/codingmore-sql/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-transactional/pom.xml" />
       </list>
     </option>
   </component>

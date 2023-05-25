@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codingmore.iml" filepath="$PROJECT_DIR$/codingmore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codingmore-transactional/codingmore-transactional.iml" filepath="$PROJECT_DIR$/codingmore-transactional/codingmore-transactional.iml" />
     </modules>
   </component>
 </project>
