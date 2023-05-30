@@ -9,7 +9,14 @@
         <option value="$PROJECT_DIR$/codingmore-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-fliter-interceptor-listener/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-filter-interceptor-listener/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/codingmore-fliter-interceptor-listener/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">

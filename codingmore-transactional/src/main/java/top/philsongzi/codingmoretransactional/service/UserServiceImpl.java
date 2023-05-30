@@ -54,10 +54,10 @@ public class UserServiceImpl implements UserService{
         return userRepository.findAll(pageable);
     }
 
-//    @Override
-//    public List<User> findByNameLike(String name) {
-//        return userRepository.findByNameLike(name);
+    @Override
+    public List<User> findByNameLike(String name) {
+        return userRepository.findByNameLike(name);
 ////        return userRepository.findByNameLikeParam(name);
 ////        return userRepository.findByNameLikeNativeQuery(name);
-//    }
+    }
 }

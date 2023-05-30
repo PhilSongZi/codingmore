@@ -12,11 +12,13 @@
         <module name="codingmore-jpa" />
         <module name="codingmore-sql" />
         <module name="codingmore-thymeleaf" />
+        <module name="codingmore-filter-interceptor-listener" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="codingmore-filter-interceptor-listener" options="-parameters" />
       <module name="codingmore-helloworld" options="-parameters" />
       <module name="codingmore-jpa" options="-parameters" />
       <module name="codingmore-sql" options="-parameters" />

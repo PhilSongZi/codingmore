@@ -20,19 +20,5 @@
             <td th:text="${user.age}"></td>
         </tr>
     </table>
-    <table>
-        <tr>
-            <td>作者</td>
-            <td>文章標題</td>
-            <td>文章內容</td>
-            <td>發表時間</td>
-        </tr>
-        <tr th:each="post:${posts}">
-            <td th:text="${post.postAuthor}"></td>
-            <td th:text="${post.postTitle}"></td>
-            <td th:text="${post.postContent}"></td>
-            <td th:text="${post.postDate}"></td>
-        </tr>
-    </table>
 </body>
 </html>

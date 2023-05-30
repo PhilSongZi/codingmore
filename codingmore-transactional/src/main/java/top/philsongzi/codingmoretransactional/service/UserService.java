@@ -25,5 +25,5 @@ public interface UserService {
     void update(User user);
 
     Page<User> findAll(Pageable pageable);
-//    List<User> findByNameLike(String name);
+    List<User> findByNameLike(String name);
 }
