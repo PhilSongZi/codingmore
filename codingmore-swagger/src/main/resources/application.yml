@@ -1,0 +1,5 @@
+# 将匹配策略调整为 ant-path-matcher（application.yml）
+spring:
+  mvc:
+    path match:
+      matching-strategy: ANT_PATH_MATCHER

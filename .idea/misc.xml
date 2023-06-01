@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/codingmore-transactional/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-fliter-interceptor-listener/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-filter-interceptor-listener/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-swagger/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
