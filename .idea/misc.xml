@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/codingmore-redis/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-logback/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-knife4j/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-springtask/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

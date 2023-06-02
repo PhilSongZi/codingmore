@@ -9,10 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="codingmore-helloworld" />
         <module name="codingmore-transactional" />
+        <module name="codingmore-knife4j" />
         <module name="codingmore-jpa" />
         <module name="codingmore-logback" />
         <module name="codingmore-swagger" />
         <module name="codingmore-filter-interceptor-listener" />
+        <module name="codingmore-springtask" />
         <module name="codingmore-redis" />
         <module name="codingmore-sql" />
         <module name="codingmore-thymeleaf" />
@@ -24,8 +26,10 @@
       <module name="codingmore-filter-interceptor-listener" options="-parameters" />
       <module name="codingmore-helloworld" options="-parameters" />
       <module name="codingmore-jpa" options="-parameters" />
+      <module name="codingmore-knife4j" options="-parameters" />
       <module name="codingmore-logback" options="-parameters" />
       <module name="codingmore-redis" options="-parameters" />
+      <module name="codingmore-springtask" options="-parameters" />
       <module name="codingmore-sql" options="-parameters" />
       <module name="codingmore-swagger" options="-parameters" />
       <module name="codingmore-thymeleaf" options="-parameters" />
