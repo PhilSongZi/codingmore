@@ -18,6 +18,7 @@
         <module name="codingmore-redis" />
         <module name="codingmore-sql" />
         <module name="codingmore-thymeleaf" />
+        <module name="codingmore-quartz" />
       </profile>
     </annotationProcessing>
   </component>
@@ -28,6 +29,7 @@
       <module name="codingmore-jpa" options="-parameters" />
       <module name="codingmore-knife4j" options="-parameters" />
       <module name="codingmore-logback" options="-parameters" />
+      <module name="codingmore-quartz" options="-parameters" />
       <module name="codingmore-redis" options="-parameters" />
       <module name="codingmore-springtask" options="-parameters" />
       <module name="codingmore-sql" options="-parameters" />
