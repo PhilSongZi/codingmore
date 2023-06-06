@@ -7,28 +7,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="codingmore-knife4j" />
+        <module name="codingmore-filter-interceptor-listener" />
+        <module name="codingmore-autogenerator" />
+        <module name="codingmore-thymeleaf" />
         <module name="codingmore-helloworld" />
         <module name="codingmore-transactional" />
-        <module name="codingmore-knife4j" />
         <module name="codingmore-jpa" />
         <module name="codingmore-logback" />
         <module name="codingmore-swagger" />
-        <module name="codingmore-filter-interceptor-listener" />
         <module name="codingmore-springtask" />
         <module name="codingmore-redis" />
+        <module name="codingmore-mybatis" />
         <module name="codingmore-sql" />
-        <module name="codingmore-thymeleaf" />
         <module name="codingmore-quartz" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="codingmore-autogenerator" options="-parameters" />
       <module name="codingmore-filter-interceptor-listener" options="-parameters" />
       <module name="codingmore-helloworld" options="-parameters" />
       <module name="codingmore-jpa" options="-parameters" />
       <module name="codingmore-knife4j" options="-parameters" />
       <module name="codingmore-logback" options="-parameters" />
+      <module name="codingmore-mybatis" options="-parameters" />
       <module name="codingmore-quartz" options="-parameters" />
       <module name="codingmore-redis" options="-parameters" />
       <module name="codingmore-springtask" options="-parameters" />

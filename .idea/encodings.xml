@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/codingmore-autogenerator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-filter-interceptor-listener/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-fliter-interceptor-listener/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-helloworld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-knife4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codingmore-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-quartz/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/codingmore-springtask/src/main/java" charset="UTF-8" />

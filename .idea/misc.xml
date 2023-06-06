@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/codingmore-knife4j/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-springtask/pom.xml" />
         <option value="$PROJECT_DIR$/codingmore-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/codingmore-autogenerator/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
