@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="codingmore-knife4j" />
         <module name="codingmore-filter-interceptor-listener" />
-        <module name="codingmore-autogenerator" />
         <module name="codingmore-thymeleaf" />
         <module name="codingmore-helloworld" />
         <module name="codingmore-transactional" />
@@ -19,14 +18,25 @@
         <module name="codingmore-springtask" />
         <module name="codingmore-redis" />
         <module name="codingmore-mybatis" />
+        <module name="codingmore-autogenerator (1)" />
         <module name="codingmore-sql" />
         <module name="codingmore-quartz" />
+        <module name="codingmore-autogenerator (2)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="codingmore-autogenerator" target="17" />
+      <module name="codingmore-autogenerator2" target="17" />
+      <module name="codingmore-autogeneratortest" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="codingmore-autogenerator" options="-parameters" />
+      <module name="codingmore-autogenerator (1)" options="-parameters" />
+      <module name="codingmore-autogenerator (2)" options="-parameters" />
+      <module name="codingmore-autogenerator2" options="-parameters" />
+      <module name="codingmore-autogeneratortest" options="-parameters" />
       <module name="codingmore-filter-interceptor-listener" options="-parameters" />
       <module name="codingmore-helloworld" options="-parameters" />
       <module name="codingmore-jpa" options="-parameters" />
